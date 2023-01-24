@@ -1,30 +1,18 @@
 ### Hi there, I'm Evgenii 👋
 
-<!--
-**evgenii-shvetsov/evgenii-shvetsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 <ul> 
   <li>💻 I'm a software engineer!</li>
   <li>💡 I am proficient in React-Redux and Ruby on Rails</li>
-  <li>❤️ I am proud of my Zillow clone, [Home](https://home-hi1b.onrender.com/)</li>
+  <li>❤️ I am proud of my Zillow clone, <a href="https://evgenii-shvetsov.github.io/racing-game/">Home</a></li>
   <li>✍ You can find my portfolio site here</li>
-  <li>🎮 Check out my game, [Crazy Ride](https://evgenii-shvetsov.github.io/racing-game/)! It's a platforming game!</li>
+  <li>🎮 Check out my game, <a href="https://evgenii-shvetsov.github.io/racing-game/">Crazy Ride</a></li>
   <li>🚀 I’m looking to collaborate on new coding projects</li>
-  <li>📫 You can reach out to me at sea.dev91@gmail.com </li>
-  <li>🔗 Want to connect? Find me on [LinkedIn](https://www.linkedin.com/in/shvetsovea/) </li>
+  <li>📫 You can <a href = "mailto: sea.dev91@gmail.com">reach out</a> to me</li>
+  <li>🔗 Want to connect? Find me on <a href="https://www.linkedin.com/in/shvetsovea/">LinkedIn</a></li>
 </ul>
 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgenii-shvetsov)](https://github.com/anuraghazra/github-readme-stats) -->
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgenii-shvetsov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
