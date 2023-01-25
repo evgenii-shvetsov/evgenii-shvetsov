@@ -9,7 +9,7 @@
   <li>✍ You can find my portfolio site here</li>
   <li>🎮 Check out my game, <a href="https://evgenii-shvetsov.github.io/racing-game/">Crazy Ride</a></li>
   <li>🚀 I’m looking to collaborate on new coding projects</li>
-  <li>📫 You can <a href = "mailto: sea.dev91@gmail.com">reach out</a> to me</li>
+  <li>📫 <a href = "mailto: sea.dev91@gmail.com">Send me email</a></li>
   <li>🔗 Want to connect? Find me on <a href="https://www.linkedin.com/in/shvetsovea/">LinkedIn</a></li>
 </ul>
 
