@@ -4,17 +4,11 @@
 
 <ul> 
   <li>💻 I'm a software engineer!</li>
-  <li>💡 I am proficient in React-Redux and Ruby on Rails</li>
+  <li>💡 I have extensive experience with React and Python</li>
+  <li>📊 I've built complex Business Intelligence(BI) ETL tools, data piplines, and process automation solutions</li>
   <li>✍ You can find my portfolio site <a href="https://shvetsov.dev"> Here</a></li>
   <li>❤️ I am proud of my Zillow clone, <a href="https://home-hi1b.onrender.com/">Home</a></li>
   <li>🎮 Check out my game, <a href="https://evgenii-shvetsov.github.io/racing-game/">Crazy Ride</a></li>
-  <li>🚀 I’m looking to collaborate on new coding projects</li>
   <li>📫 <a href = "mailto: sea.dev91@gmail.com">Send me email</a></li>
   <li>🔗 Want to connect? Find me on <a href="https://www.linkedin.com/in/shvetsovea/">LinkedIn</a></li>
 </ul>
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgenii-shvetsov)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgenii-shvetsov&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
