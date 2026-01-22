@@ -7,7 +7,7 @@
   <li>💡 I have extensive experience with React and Python</li>
   <li>📊 I've built complex Business Intelligence(BI) ETL tools, data piplines, and process automation solutions</li>
   <li>✍ You can find my portfolio site <a href="https://shvetsov.dev"> Here</a></li>
-  <li>❤️ I am proud of my Zillow clone, <a href="https://home-hi1b.onrender.com/">Home</a></li>
+  <li>❤️ I am proud of my Zillow clone, <a href="https://github.com/evgenii-shvetsov/home">Home</a></li>
   <li>🎮 Check out my game, <a href="https://evgenii-shvetsov.github.io/racing-game/">Crazy Ride</a></li>
   <li>📫 <a href = "mailto: sea.dev91@gmail.com">Send me email</a></li>
   <li>🔗 Want to connect? Find me on <a href="https://www.linkedin.com/in/shvetsovea/">LinkedIn</a></li>
